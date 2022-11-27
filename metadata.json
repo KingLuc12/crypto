@@ -1,6 +1,13 @@
 {
-  "name": "KingLuc Token",
-  "symbol": "KLT",
-  "description": "A token made by KingLuc",
-  "image": "https://raw.githubusercontent.com/KingLuc12/crypto/main/KINGLUC.png"
-}
+    "name": "KingLuc Token",
+    "symbol": "KLT",
+    "description": "A token made by KingLuc",
+    "image": "https://raw.githubusercontent.com/KingLuc12/crypto/main/KINGLUC.png",
+    "tags": [
+        "social-token"
+    ],  
+    "extensions": {
+        "website": "https://kingluc.tk/"
+    }
+  }
+  
