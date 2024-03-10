@@ -1,10 +1,11 @@
 {
-    "name": "KingLuc Token",
-    "symbol": "KLT",
-    "description": "A token made by KingLuc",
+    "name": "CRYPSOL Token",
+    "symbol": "CRY",
+    "description": "CRY -| A simple token",
     "image": "https://raw.githubusercontent.com/KingLuc12/crypto/main/KINGLUC.png",
     "tags": [
-        "social-token"
+        "social-token",
+        "joke"
     ],  
     "extensions": {
     }
